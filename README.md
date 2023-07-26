@@ -1,6 +1,6 @@
 # Calculate Your Age!
 <!--Remove the below lines and add yours -->
-This script prints your age in three different ways : 
+This Terminal code prints your age in three different ways : 
 1. Years
 2. Months
 3. Days
@@ -8,12 +8,12 @@ This script prints your age in three different ways :
 
 ## Prerequisites
 <!--Remove the below lines and add yours -->
-You only need Python to run this script. You can visit [here](https://www.python.org/downloads/) to download Python.
+You only need Python to run this script. You can visit.
 
 
 ## How to run the script
 <!--Remove the below lines and add yours -->
-Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command :
+Running the code is really simple! Just run the py file with python and a terminal will pop:
 
     `python calculate.py`
 
@@ -29,4 +29,4 @@ $ python calculate.py
 
 ## *Author Name*
 <!--Remove the below lines and add yours -->
-[Gaodong](https://github.com/xlgd)
+[Wonga](https://github.com/Wonga-Wongy)
